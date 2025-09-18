@@ -1,8 +1,8 @@
 # Steps for the best protein shake
 
 ## Ingredients:
-1 cup of oats
-2 scoops of chocolate whey protein powder
+1. 1 cup of oats
+2. 2 scoops of chocolate whey protein powder
 2 tablespoons of peanut butter
 1 tbs of honey
 1 banana

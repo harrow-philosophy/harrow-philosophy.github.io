@@ -13,12 +13,21 @@ sprinkle of cinnamon
 
 ## Steps:
 Add the oats by themselves to the blender and blend into a powder - blending when dry prevents oat clumping
+
 Add protein powder
+
 Add cinnamon
+
 Add the banana and break it by hand into smaller pieces for easy fitting
+
 Add the peanut butter
+
 Add the honey
+
 Add the ice
+
 Add olive oil
+
 Add milk - do this last as the milk sitting will make the powders stick to the walls
+
 Blend immediately after adding milk

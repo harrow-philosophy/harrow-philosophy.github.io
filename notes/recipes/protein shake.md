@@ -28,4 +28,5 @@
 - Protein: 78 g
 - Carbohydrates: 126 g
 - Fats: 46 g
+
 (May vary slightly depending on brand for ingredients)

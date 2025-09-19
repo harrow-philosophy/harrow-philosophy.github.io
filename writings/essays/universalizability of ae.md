@@ -4,7 +4,7 @@
 The aim of this paper was to defend argumentation ethics on its universalizability principle, while allowing arguments against the specific norms that may be presupposed in argumentation to go by.
 
 ## A lesson on hierarchy
-This paper is an opportunity to review the hierarchy of philosophy and defend this paper from specific kinds of critiques. The validity of argumentation ethics is immune against attacks stemming from solipsism, determinism, and moral anti-realism. If you frame argumentation as saying "if the existence exists, and is primary to consciousness, and the senses are valid, and man's consciousness is volitional, and moral realism is true, then argumentation ethics is true. It is valid to attack argumentation ethics directly or any of the philosophical foundations from which it stands, thus, the importance of a philosophical foundation is demonstrated. I cannot validate argumentation ethics if I am not first able to validate action as an axiom.
+This paper is an opportunity to review the hierarchy of philosophy. Argumentation ethics requires saying "existence exists, and is primary to consciousness, and the senses are valid, and man's consciousness is volitional, and moral realism is true, and xyz, and  argumentation ethics is true. It is valid to attack argumentation ethics directly or any of the philosophical foundations from which it stands; thus, the importance of a philosophical foundation is demonstrated. One cannot validate argumentation ethics if they are not first able to validate action as an axiom, and everything else that is necessary.
 
 ## Links
 [Here](https://artsci.tamu.edu/philosophy/_files/_documents/_undergraduate/aletheia-spring-2025-edition.pdf) is the link to the journal.

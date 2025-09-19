@@ -24,8 +24,8 @@
 10. Blend immediately after adding milk
 
 ## Nutrition
-Calories: 1200 kcal
-Protein: 78 g
-Carbohydrates: 126 g
-Fats: 46 g
+- Calories: 1200 kcal
+- Protein: 78 g
+- Carbohydrates: 126 g
+- Fats: 46 g
 (May vary slightly depending on brand for ingredients)

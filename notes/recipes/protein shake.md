@@ -22,3 +22,10 @@
 8. Add olive oil
 9. Add milk - do this last as the milk sitting will make the powders stick to the walls
 10. Blend immediately after adding milk
+
+## Nutrition
+Calories: 1200 kcal
+Protein: 78 g
+Carbohydrates: 126 g
+Fats: 46 g
+(May vary slightly depending on brand for ingredients)

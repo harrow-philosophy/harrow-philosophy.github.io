@@ -1,3 +1,5 @@
+# UNFINISHED
+
 # On public property - an open boarders answer
 
 In the public property and open boarders debate amongst Libertarians the point of contention is the ownership status of public property. Three alternative answers are porposed.

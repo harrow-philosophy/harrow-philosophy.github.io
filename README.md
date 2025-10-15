@@ -1,1 +1,1 @@
-# eliot-philosophy.github.io
+# harrow-philosophy.github.io

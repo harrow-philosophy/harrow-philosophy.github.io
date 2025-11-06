@@ -15,7 +15,7 @@ Notes on "The Law" by Frederic Bastiat
 
 "...every time we object to a thing being done by government, the socialists conclude that we object to its being done at all."
 
-
+May argue that liberty is the act of a man having the power to use and develop their faculties then it follows the state must provide what is necessary for that in order to ensure liberty. This begs the question, by what means is the state to grant this use over ones faculties? By restricting the use of another to their faculties of course!
 
 ## Definitions:
  - Origin of Property: A man living and satisfying his wants by the ceaseless application of [man's] faculties to natural resources.
@@ -32,7 +32,7 @@ Identify by examining if a legislation grants the state the power to act "non-cr
 
 Socialism is a result of the trend in classical thought that man is inert and tends towards degeneration, and must be shaped by legislators.
 - Hobbes' "nasty, brutish, and short"
-- Rousseau that 'writers' must legislate every aspect of man's life, as if man couldn't know how to plant a seed if not legislated on it. How then do the writers know? Are they not man? They fancy themselves as gods.
+- Rousseau argued that 'writers' must legislate every aspect of man's life, as if man couldn't know how to plant a seed if not legislated on it. How then do the writers know? Are they not man? They fancy themselves as gods.
 
 ## Plunder
 -Plunder: When a portion of wealth is transferred from the person who owns it--without his consent and without compensation, and whether by force or by fraud--to anyone who does not own it.

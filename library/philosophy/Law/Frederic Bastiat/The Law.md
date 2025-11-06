@@ -1,5 +1,6 @@
 # The Law
-
+Notes on "THe Law" by Frederic Bastiat
+## Law Perverted
 "...to limiting and destroying rights which its real purpose was to respect."
 "It has converted plunder into a right, in order to protect plunder. And it has converted lawful defense into a crime, in order to punish lawful defense."
 - Did not see that the state requires such a contradiction.

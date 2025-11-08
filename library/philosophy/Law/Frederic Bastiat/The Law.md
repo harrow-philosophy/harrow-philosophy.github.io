@@ -4,7 +4,7 @@ Notes on "The Law" by Frederic Bastiat
 - To protect Life, Liberty, and Property
 - The purpose of the law is to prevent injustice from reigning.
    Not "To cause justice to reign.
-   Justice only achieved when injustice is absent
+   Justice is only achieved when injustice is absent
 
 ## Law Perverted
 "...to limiting and destroying rights which its real purpose was to respect."

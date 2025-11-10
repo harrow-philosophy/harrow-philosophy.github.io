@@ -1,5 +1,8 @@
 # The Law
 Notes on "The Law" by Frederic Bastiat
+
+[Here](https://fee.org/wp-content/uploads/ebooks/the-law-final-text-only.pdf) is the link to the exact translation I used.
+
 ## Purpose
 - To protect Life, Liberty, and Property
 - The purpose of the law is to prevent injustice from reigning.

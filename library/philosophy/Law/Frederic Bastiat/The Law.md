@@ -1,5 +1,5 @@
 # The Law
-Notes on "The Law" by Frederic Bastiat
+Notes on "The Law" by Frederic Bastiat and takeaways written in his tone.
 
 [Here](https://fee.org/wp-content/uploads/ebooks/the-law-final-text-only.pdf) is the link to the exact translation I used.
 
